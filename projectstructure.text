@@ -1,0 +1,14 @@
+my-todo-app/
+├── public/
+│   ├── index.html
+│   └── ...
+├── src/
+│   ├── components/
+│   │   ├── Button.js
+│   │   ├── TodoApp.js
+│   │   ├── TodoItem.js
+│   │   └── TodoList.js
+│   ├── App.js
+│   ├── index.js
+│   └── ...
+└── package.json
